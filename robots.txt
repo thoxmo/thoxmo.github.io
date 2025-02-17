@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thoxmo.csgad.com/pgm/sitemap.xml.gz
